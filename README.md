@@ -1,9 +1,5 @@
 <div align="center">
-
-![buildKevin](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg#gh-dark-mode-only)
-![buildKevin](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg#gh-dark-mode-only)
-
-# buildKevin Boilerplate
+  # buildKevin Boilerplate
 
 **A production-ready SaaS boilerplate designed for speed, scalability, and clean architecture**
 
